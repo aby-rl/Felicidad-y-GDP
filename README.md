@@ -8,5 +8,5 @@ La base de datos cuenta con la siguiente información:
 
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./A1_2.ipynb)
-- [Reporte en formato html](./A1.2 Felicidad y GDP.html)
-- [Base de datos](./A1.2 Felicidad y GDP.csv)
+- [Reporte en formato html](./A1_2.html)
+- [Base de datos](./Felicidad_GDP.csv)
