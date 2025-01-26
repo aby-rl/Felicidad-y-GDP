@@ -7,6 +7,6 @@ La base de datos cuenta con la siguiente información:
 -	“GDP”. Se describe como un número, base LOG10.
 
 Este proyecto incluye los siguientes documentos:
-- [Reporte en formato ipynb](./A1_2.ipynb)
-- [Reporte en formato html](./A1_2.html)
+- [Reporte en formato ipynb](./Regresion_lineal.ipynb)
+- [Reporte en formato html](./Regresion_lineal.html)
 - [Base de datos](./Felicidad_GDP.csv)
